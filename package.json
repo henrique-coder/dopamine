@@ -115,6 +115,6 @@
         "sanitize-filename": "1.6.3",
         "tinycolor2": "1.6.0",
         "tslib": "2.0.0",
-        "uuid": "9.0.0"
+        "uuid": "14.0.0"
     }
 }
